@@ -23,7 +23,7 @@ LosefEmail是一个自由的邮件系统，这就意味着你可以在里面不�
 
 LosefEmail还使用了IRC，就意味着他其实是一个聊天，只不过特殊点。
 
-邮箱系统使用了我们自个设计的LosefEMS，流程如下：
+邮箱系统使用了我们自个设计的LosefIREMS，流程如下：
 
 ```
 +-------------------+            +---------------------+
@@ -128,7 +128,6 @@ LosefEmail还使用了IRC，就意味着他其实是一个聊天，只不过特�
 [download : vim online](https://www.vim.org/download.php#pc) <- 点击可以下载vim,  我们使用vim来作为中介编辑器，以保持纯命令行
 
 [Linux vi/vim 教学文档 | 菜教高级人民计算机学院、菜教高级人民计算机网络教育出版社官网（bushi](https://www.runoob.com/linux/linux-vim.html) <- vim教程,  没用过vim的欢迎来用这种远古级别但又10分好用的编辑器，欢迎加入vim社区！
-
 
 ## 使用教程文档
 
